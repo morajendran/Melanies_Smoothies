@@ -25,7 +25,7 @@ if ingredient_list:
 
     #st.write(ingredient_string)
 
-	@@ -37,8 +39,3 @@
+	
         #st.write('query: ',my_insert_stmt)
 
         st.success('Your Smoothie is ordered!', icon="✅")
